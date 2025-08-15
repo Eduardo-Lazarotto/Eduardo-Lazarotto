@@ -53,24 +53,3 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Eduardolazarotto&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-  <img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardolazarotto&theme=tokyonight&layout=compact&langs_count=5" 
-  />
-</p>
-
-</p>
