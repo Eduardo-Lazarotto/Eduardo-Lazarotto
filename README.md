@@ -40,7 +40,7 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" 
 />
 <img 
     align="left" 
