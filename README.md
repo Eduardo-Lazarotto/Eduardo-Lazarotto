@@ -36,11 +36,11 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
 />
 <img 
     align="left" 
-    alt="Power BI"
+    alt="Power BI" 
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" 
+    src="./assets/powerbi.svg" 
 />
 <img 
     align="left" 
