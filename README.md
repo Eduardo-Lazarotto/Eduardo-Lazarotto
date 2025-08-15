@@ -2,30 +2,13 @@
 
 **`Data Analyst | Economics Student`**
 
-Me chamo Eduardo Luiz Lazarotto, tenho 21 anos e sou do Paraná. Sou estudante de Ciências Econômicas na PUCPR e atuo como Analista de Dados, com foco em desenvolvimento, análise e visualização de dados utilizando **SQL, Python e Power BI**.  
+Me chamo Eduardo Luiz Lazarotto, tenho 21 anos e sou do Paraná. Sou estudante de Ciências Econômicas na PUCPR e atuo como Analista de Dados, com foco em desenvolvimento, análise e visualização de dados utilizando **SQL, PostgreSQL, Python, Power BI e Excel**.  
 
 Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar dados complexos em insights claros para apoiar decisões estratégicas.
 
-<p align="left">
-    <a href="https://github.com/Eduardolazarotto?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Eduardolazarotto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/Eduardolazarotto?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Eduardolazarotto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias e Linguagens
 
 <img 
     align="left" 
@@ -33,7 +16,7 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -41,7 +24,15 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -49,23 +40,7 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Pandas"
-    title="Pandas" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://pandas.pydata.org/static/img/pandas_mark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Matplotlib"
-    title="Matplotlib" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://matplotlib.org/_static/images/logo2.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
 />
 <img 
     align="left" 
@@ -73,15 +48,7 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" 
 />
 
 <br/>
@@ -102,6 +69,6 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
       align="left" 
       alt="Top Languages" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardolazarotto&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardolazarotto&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=5" 
   />
 </p>
