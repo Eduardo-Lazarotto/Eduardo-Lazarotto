@@ -40,7 +40,7 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" 
 />
 <img 
     align="left" 
@@ -48,7 +48,7 @@ Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar 
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" 
 />
 
 <br/>
