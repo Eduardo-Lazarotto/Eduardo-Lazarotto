@@ -2,9 +2,9 @@
 
 **`Data Analyst | Economics Student`**
 
-Me chamo Eduardo Luiz Lazarotto, tenho 22 anos e sou do Paraná. Sou estudante de Ciências Econômicas na PUCPR e atuo como Analista de Dados, com foco em desenvolvimento, análise e visualização de dados utilizando **SQL, PostgreSQL, Python, Power BI e Excel**.  
+My name is Eduardo Lazarotto, I'm 22 years old. I'm an Economics student at PUCPR and work as a Data Analyst, focusing on development, analysis, and data visualization using **SQL, PostgreSQL, Python, Power BI, and Excel**.
 
-Atualmente, compartilho meus projetos e estudos no GitHub, buscando transformar dados complexos em insights claros para apoiar decisões estratégicas.
+I currently share my projects and research on GitHub, aiming to transform complex data into clear insights to support strategic decisions.
 
 ---
 
