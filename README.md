@@ -8,7 +8,7 @@ I currently share my projects and research on GitHub, aiming to transform comple
 
 ---
 
-### 🤖 Tecnologias e Linguagens
+### 🤖 Technologies and Languages
 
 <img 
     align="left" 
